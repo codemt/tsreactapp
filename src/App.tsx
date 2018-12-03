@@ -5,7 +5,7 @@ import MyData from './components/mydata';
 class App extends React.Component {
   public render() {
     return (
-      <div className="App">
+      <div className='App'>
         <MyData name={'Mithilesh Tarkar'} />
       </div>
     );
