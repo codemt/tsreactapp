@@ -33,6 +33,7 @@ class MyData extends React.Component<IState> {
 
 
                 console.log(this.state.name);
+                console.log("hello");
 
         });
 
